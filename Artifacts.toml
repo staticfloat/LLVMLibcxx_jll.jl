@@ -1,0 +1,353 @@
+[[LLVMLibcxx]]
+arch = "x86_64"
+git-tree-sha1 = "20e95a23baa5d135bbe2f23a671323124071df20"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "3b5a8145f32687326f181611c60ebcfe5d9d4a056469cd29b771f11842bd3985"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-x86_64-linux-gnu.tar.gz"
+[[LLVMLibcxx]]
+arch = "i686"
+git-tree-sha1 = "92d646c6ff23a2eed500c33766df83af8f683686"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "2ea5f704be857489c76c82925373d2dc737add6ae1d9f05809e5bcda769884d3"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-i686-linux-gnu.tar.gz"
+[[LLVMLibcxx]]
+arch = "aarch64"
+git-tree-sha1 = "f65bbc7e1a391220d2068bedcd35ffae78fa265a"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "f8e016a01528049c9a537f670fff3ac6d44a97cb78c2930d6136f86659ddd8ae"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-aarch64-linux-gnu.tar.gz"
+[[LLVMLibcxx]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d3ff47a5f9f400fe8e992bb512aa40dff766769a"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "db2018e86318e058ef3abe1e2f677f126c53fa47827af9b7e4b800f398829dac"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-armv7l-linux-gnueabihf.tar.gz"
+[[LLVMLibcxx]]
+arch = "powerpc64le"
+git-tree-sha1 = "072d758a63d1f088339d1d3aa73ea75d4e050747"
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "2801c97ea5bcb8f8a0d3d4e03e92ce3bbd8e534bec5e2ce4a5a5f598cbc10c72"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-powerpc64le-linux-gnu.tar.gz"
+[[LLVMLibcxx]]
+arch = "x86_64"
+git-tree-sha1 = "9c64139ba607df7a21b4f79542fc51422e190b15"
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "e23707dd30116014ec17414fe166f455d96d3cd64c6a807dadae02fd37cb8ed8"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-x86_64-linux-musl.tar.gz"
+[[LLVMLibcxx]]
+arch = "i686"
+git-tree-sha1 = "09f573daffba8b45b35006704d418c33916d0a3e"
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "e51b0350cd343a4844fada1f07edfa13687d9a1d9e54bf7dd3e71fe2579746db"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-i686-linux-musl.tar.gz"
+[[LLVMLibcxx]]
+arch = "aarch64"
+git-tree-sha1 = "6d0f12185c150b00eb91d4dbf0de7b324cd37eb9"
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "4dbccca0aff093b16c4bf13d2e8debf93fc5326187979b2eaf1208d041cf4cea"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-aarch64-linux-musl.tar.gz"
+[[LLVMLibcxx]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e41a3f1faaefa76e2367b833d23710bd7fcfaf26"
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "d20be2759c6e612b00499dc3db8cc40c337d9aba4c71d3e861c3547fce0dfd0c"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-armv6l-linux-musleabihf.tar.gz"
+[[LLVMLibcxx]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7178aa368ab578ae2df3f042137ac23ff00881b9"
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "8dae07d4b3e8087826f701b1f9e02ee2b78b6426ccd795617649a1e3ff919982"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-armv7l-linux-musleabihf.tar.gz"
+[[LLVMLibcxx]]
+arch = "x86_64"
+git-tree-sha1 = "c73e44a330b31bf74e5cf0448691ed187fad0978"
+os = "windows"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "cf714658c6bacd53eb0b1a086571e6ba7deecbfb39a1095d14e0a3357a5e4822"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-x86_64-w64-mingw32.tar.gz"
+[[LLVMLibcxx]]
+arch = "i686"
+git-tree-sha1 = "1dc02d567aa77e6c27f90f1e50022060825cd508"
+os = "windows"
+
+    [[LLVMLibcxx.download]]
+    sha256 = "f45096907956f321fa58680e84fad1a8372b1d919cb5afce2669933998898955"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-v17.0.0-i686-w64-mingw32.tar.gz"
+
+[[LLVMLibcxx-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "cca6bea9ab0e79929ddd055b2f6c803b24aac6b4"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "676444605d9e2c713238419ea8c3eddebb7686ab57f5de198c994326417cb979"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-x86_64-linux-gnu.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "i686"
+git-tree-sha1 = "5344822ecf9557ba8a6810dd084a370e7dfb675c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "abaf44adfff356113ff4ee8480aaea89795fd4fa3ffef3c5e42f46be70de9d30"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-i686-linux-gnu.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "ecc88f8b9e58090a1323eb11ddd4a5028352139c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "fe79516f6f6133e367dd285a7fc93215cb3adfff91521a0146c2631b1927d51b"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-aarch64-linux-gnu.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "f85ae7a6e5bf32b4aa963848e90d4d4012111ddf"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "26fec7b891e531fa6e1e884b7a66ed5ea394051822de79e2d76c318414a517f9"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-armv7l-linux-gnueabihf.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "4e0fe134c26a2d316c617f609264e21640265807"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "89ee4c9f56d0e4f35d07de1ed5a15c9f750b40f8137486bb6b273fb5aaa54616"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-powerpc64le-linux-gnu.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "a88188180679138360b8c32e1675705572b254f6"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "3a83dcf274d9c13af4828d15231b0c22f9a7ce39910e47c906035c703fb7204c"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-x86_64-linux-musl.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "i686"
+git-tree-sha1 = "7def8f92ac736274f303c086fad6cfc63cb03175"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "7ee89e7daa55dabd1c4f75cbb21126dad68c863b4f504daae9ccc1f71229ef6c"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-i686-linux-musl.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "aarch64"
+git-tree-sha1 = "b60b358a26186d2f2010673a928e394c0c85eed9"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "867373064b32da56522b1bf1743707111b3f8b8b902e2f546ff89eb94b52d2fc"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-aarch64-linux-musl.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6981f0abc5057d440d64833d77a36e9a0d1d7dae"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "0ed5e619b9d65f3bdb253c8aedb4145376505a97e8361fa58afb22c38191b629"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-armv6l-linux-musleabihf.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3c9b50aad3ccfc90e805e57601a3a45bc77229a6"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "259a361e3055d178d8c9817298140e0d89ec7d0d8c62cf90f9a54b10e9735113"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-armv7l-linux-musleabihf.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "x86_64"
+git-tree-sha1 = "95fc48a2eefded832a5f65d5ddfcae54e6b9c9e4"
+lazy = true
+os = "windows"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "539cc722f1dbceefbf356538a1d18a18ae25edeca373ba8befae0c3b34b73ac5"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-x86_64-w64-mingw32.tar.gz"
+[[LLVMLibcxx-build_log]]
+arch = "i686"
+git-tree-sha1 = "4c6b0b392f95d3d04a2d889777b2224d2889e6d0"
+lazy = true
+os = "windows"
+
+    [[LLVMLibcxx-build_log.download]]
+    sha256 = "1e3e69ecdb5fffd82d6bf512e77fff2b163ce364e441e7684cc554f9a7c08aca"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-build_log-v17.0.0-i686-w64-mingw32.tar.gz"
+
+[[LLVMLibcxx-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "b8ba548a41b9b978acbd65963e48b04a1efd2563"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "2e025de86b0ad34053f360d2ec109066c9db0b69bd5d6406118f4e892db77c0c"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-x86_64-linux-gnu.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "i686"
+git-tree-sha1 = "ae24ff67e73215243a4950752f9678b88399cc0b"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "108ee44ebba7e7c96584cb3112a712ed51e799db75d23154ae4c26c28c3ae163"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-i686-linux-gnu.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "935e9032239928fc5a1b6f4f94d52b67fe37372c"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "c1aeaed8a1764d5cb2126b8d2369c962d2cc2a6ee94785d987927fc9a9c12c6b"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-aarch64-linux-gnu.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "11b51ad4d4baec3b0b6a82eb07e0115b32b9bf4a"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "d405e1673c740cbbebaa53dce1e2ee249081a5b1c1e578d8a515d72a77802014"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-armv7l-linux-gnueabihf.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "powerpc64le"
+git-tree-sha1 = "926f8ca60e3720aa115390001715da6131590383"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "2c84d1e94d034a343cc8390323252796ba87169a00170800144c2a2fb27c7cb3"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-powerpc64le-linux-gnu.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "78eb5e53ae47043526316282953574660a20d94f"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "96817671c62030e90f0e1dda8727a9cc71292d98f48c9737e8cecde72763773a"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-x86_64-linux-musl.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "i686"
+git-tree-sha1 = "9d4c51c0645656c4d32bac76b4cccdfb53a04dc5"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "2e5db6314c7bdc93ed310617637a78a6f61d1630b41f359b7847bf1bc408ede7"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-i686-linux-musl.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "aarch64"
+git-tree-sha1 = "4df6e289f3f2da73274961c002c9d2eef2356502"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "181ee7e6f5b2f2a00fbcd668996555a5d64ba2a9abc4308efe4741f87b6d76f6"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-aarch64-linux-musl.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b80583c987c1166c44e087c448959d689fc4295"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "1f5b23c2b49a9a0c2cc578615c1dba381fb492e056fb8e677754917d922159ba"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-armv6l-linux-musleabihf.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "68cec19e0a7d3ed0fa18b3d433723cb2f31835ea"
+lazy = true
+libc = "musl"
+os = "linux"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "2c759578df962f66d479d96716511b8d134cf2b249f13642af4b78ce2179b1bf"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-armv7l-linux-musleabihf.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "x86_64"
+git-tree-sha1 = "09bb7252102a925744bd124ed33178354fa30e1b"
+lazy = true
+os = "windows"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "61fab08204e3eeda19cf9bab25e1067bb8d4082c1c78b9847699d68ce3ec26f1"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-x86_64-w64-mingw32.tar.gz"
+[[LLVMLibcxx-extract_log]]
+arch = "i686"
+git-tree-sha1 = "797574ebd3cd1d869c0c40e8c1228734ec4c006d"
+lazy = true
+os = "windows"
+
+    [[LLVMLibcxx-extract_log.download]]
+    sha256 = "d48d24b0a718cc4740f7634089afb6bf585d63dd0c777d8d69c62bdf31ca192f"
+    url = "https://github.com/staticfloat/LLVMLibcxx_jll.jl/releases/download/v17.0.0/LLVMLibcxx-extract_log-v17.0.0-i686-w64-mingw32.tar.gz"
