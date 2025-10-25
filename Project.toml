@@ -1,6 +1,6 @@
 name = "LLVMLibcxx_jll"
 uuid = "899a7460-a157-599b-96c7-ccb58ef9beb5"
-version = "17.0.0"
+version = "17.0.1"
 
 [deps]
 LLVMLibunwind_jll = "871c935c-5660-55ad-bb68-d1283357316b"
